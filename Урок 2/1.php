@@ -150,3 +150,4 @@ $dg->showGain();
 
 $wg = new WeightGood(10, 0.7);
 $wg->showGain();
+//
